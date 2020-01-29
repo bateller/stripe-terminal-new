@@ -1,4 +1,4 @@
-<?
+<?php
 
 // comment this out to allow http:
 if($_SERVER['SERVER_PORT'] == 80){
